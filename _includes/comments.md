@@ -1,3 +1,4 @@
+<section class="comment">
 <script type="text/javascript" id="wumiiComments">
     var wumiiPermaLink = ""; //请用代码生成文章永久的链接
     var wumiiTitle = ""; //请用代码生成文章标题
@@ -5,4 +6,5 @@
     var wumiiParams = "&pf=JAVASCRIPT";
 </script>
 <script type="text/javascript" src="http://widget.wumii.cn/ext/cw/widget"></script>
+</section>
 
