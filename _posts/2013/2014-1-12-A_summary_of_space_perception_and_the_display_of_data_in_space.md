@@ -6,6 +6,7 @@ categories:
 tags:
 - space perception
 ---
+
 >   This is a book review of  space perception part of `<<Information Visualization:  Perception for design>>`, some ideal from wikipedia, some from [Webvision](http://webvision.med.utah.edu/book/part-viii-gabac-receptors/perception-of-depth/), Thanks for all the people.    
 
 ------
@@ -73,3 +74,6 @@ Here we the depth we perceived as size.
 Stereopsis is the impression of the depth perceived when a scene is viewed with both binocular vision.    
 Binocular disparity: binocular viewing a scene generates two slightly different images, because of the different position of the eyes in the head. This let the brain calculates the depth in the visual scene.  ( Depth perception )   
 Stereopsis is not present when viewing a scene with one eye, or view a flat picture of a scene with both eyes. In other worlds, Stereopsis cannot occur monocularly.    
+
+
+
