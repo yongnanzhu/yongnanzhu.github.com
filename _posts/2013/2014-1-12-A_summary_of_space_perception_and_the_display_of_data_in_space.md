@@ -7,8 +7,6 @@ tags:
 - space perception
 ---
 
-# A summary of space perception and the display of data in space   
-
 >   This is a book review of  space perception part of `<<Information Visualization:  Perception for design>>`, some ideal from wikipedia, some from [Webvision](http://webvision.med.utah.edu/book/part-viii-gabac-receptors/perception-of-depth/), Thanks for all the people.    
 
 ------
