@@ -3,14 +3,20 @@ title: About me
 layout: page
 comments: yes
 ---
-  
-__竺涌楠__  
-12年本科毕业于内蒙古科技大学信息管理与信息系统专业  
-12年研究生就读与杭州电子科技大学计算机应用技术专业  
-熟悉c/c++ html webgl javascript opengl等计算机语言       
-目前从事数据可视化与人机交互相关研究       
 
-个人邮箱: younyzhu@gmail.com  
-QQ交流: [448467660](http://wpa.qq.com/msgrd?V=1&Uin=448467660)  
-新浪微博: [http://weibo.com/yongnanzhu](http://weibo.com/yongnanzhu)        
-github: [https://github.com/yongnanzhu](https://github.com/yongnanzhu)      
+![Myself](/picture/pic.jpg)  
+
+__Yongnan Zhu__
+Department of Computer Science
+Hangzhou Dianzi University
+Baiyang street #1158
+Hangzhou economic and technological development zone 
+Hangzhou, Zhejiang 310012, P.R. China 
+Email: younyzhu@gmail.com 
+QQ: [448467660](http://wpa.qq.com/msgrd?V=1&Uin=448467660)  
+weibo(xinlang): [http://weibo.com/yongnanzhu](http://weibo.com/yongnanzhu)        
+github: [https://github.com/yongnanzhu](https://github.com/yongnanzhu)  
+
+I received the BS degree in the School of Economics and Management from Inner Mongolia University of Science and Technology (IMUST). From 2012, I begin studying for my master’s degree in the Department of Computer Science, majoring in computer application technology at Hangzhou Dianzi University. And now I am also a visiting research assistant in the Computer Science and Electrical Engineering at University of Maryland, Baltimore County. My research interests include  scientific  visualization and visual perception, and intelligent interaction methods.    
+
+ 
