@@ -4,15 +4,15 @@ layout: page
 comments: yes
 ---
 
-![Myself](/picture/pic.jpg)  
-
-__Yongnan Zhu__
+![Myself](/picture/pic.jpg)     
+------
+__Yongnan Zhu__    
 Department of Computer Science
 Hangzhou Dianzi University
 Baiyang street #1158
 Hangzhou economic and technological development zone 
-Hangzhou, Zhejiang 310012, P.R. China 
-Email: younyzhu@gmail.com 
+Hangzhou, Zhejiang 310012, P.R. China     
+Email: younyzhu@gmail.com     
 QQ: [448467660](http://wpa.qq.com/msgrd?V=1&Uin=448467660)  
 weibo(xinlang): [http://weibo.com/yongnanzhu](http://weibo.com/yongnanzhu)        
 github: [https://github.com/yongnanzhu](https://github.com/yongnanzhu)  
