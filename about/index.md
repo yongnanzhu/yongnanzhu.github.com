@@ -16,8 +16,7 @@ Department of Computer Science and Electrical Engineering
 UMBC - University of Maryland, Baltimore County    
 ITE 376, TEL: 410-455-8790    
 Webpage: http://zhuyongnan.cn     
-Email: [yongnan@umbc.edu](yongnan@umbc.edu)     
-       [yongnanzhu@qq.com](yongnanzhu@qq.com)     
+Email: [yongnan@umbc.edu](yongnan@umbc.edu) , [yongnanzhu@qq.com](yongnanzhu@qq.com)     
 QQ: [448467660](http://wpa.qq.com/msgrd?V=1&Uin=448467660)    
 weibo(xinlang): [http://weibo.com/yongnanzhu](http://weibo.com/yongnanzhu)        
 github: [https://github.com/yongnanzhu](https://github.com/yongnanzhu)   
