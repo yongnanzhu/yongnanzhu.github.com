@@ -20,4 +20,4 @@ The later month, I should do:
 
 + Finish the Review paper(about the form).      
 + Finish reading the book I want to read everynight.      
-+ Try my best to do the NPR-related paper.   
++ Try my best to do the NPR-related paper work.   
