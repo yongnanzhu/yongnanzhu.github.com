@@ -14,7 +14,6 @@ Hangzhou Dianzi University (HDU)
 
 Department of Computer Science and Electrical Engineering    
 University of Maryland, Baltimore County (UMBC)      
-ITE 376  
 - - - - - -
 Homepage: [http://zhuyongnan.cn](http://zhuyongnan.cn)    
 Email: [yongnan@umbc.edu](yongnan@umbc.edu) , [yongnanzhu@qq.com](yongnanzhu@qq.com)     
