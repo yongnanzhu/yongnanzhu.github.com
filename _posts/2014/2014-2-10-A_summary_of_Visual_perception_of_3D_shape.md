@@ -76,4 +76,4 @@ Texture with different orientation of the stripes.
 
 ###Visual Cues for hatching     
 Compared with my table, I think his is much specialty. With right thing at right place, and the classification of visual cues based on the wikipedia. Maybe My classification should be modified. However, my classification is little well for providing some important imfortation first. 
-__Should I chagee the table?__
+__Should I change the table?__
