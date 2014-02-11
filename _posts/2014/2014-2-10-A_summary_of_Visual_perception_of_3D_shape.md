@@ -59,6 +59,7 @@ Convergence of parallel line, use distance to encode depth information
 
 ####4.Motion cues      
 >For non‐interactive conditions, in the absence of additional cues such as perspective or occlusion, there is a sign ambiguity associated with structure from motion.
+
 ####5.Texture (surface pattern) Cue   
 
 Texture encodes information:      
