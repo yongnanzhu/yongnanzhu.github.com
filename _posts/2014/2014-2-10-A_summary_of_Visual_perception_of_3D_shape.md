@@ -1,3 +1,12 @@
+---
+layout: post
+title: A summary of Visual perception of 3D shape 
+categories:
+- Summary
+tags:
+- space perception， visual cue
+---
+
 It takes me a long time to think about what is visual cue? how this works in shape perception?    
 ##Wikipedia
 Actually, from wikipedia [Visual Cues](https://en.wikipedia.org/wiki/Sensory_cue#Visual_Cues), I find its Conception:    
