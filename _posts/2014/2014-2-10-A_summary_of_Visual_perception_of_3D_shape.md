@@ -20,11 +20,10 @@ When I form the table(Hatching with Visual Cue: Shape, Shading, Depth) a few day
 In NPR, I find the visual cues they most refer are shading, depth, texture, shape. Here the texture is just texture pattern. If using hatching, it just refers to the different line drawing for hatching.
 
 The below part is from my log:
->
-1.In shading model, some people also involves the shading model parameters with four components, such as Lambertian shading, Specular shading, Ambient shading, Cast shadows
-However,I find in Hatching what they use most are illumination, shadow, highlight.
-2.Spatial cue of depth, I think distance from view is most widely used combined with light intensity, or other effect. occlusion and shading will also give depth cue, so here I add occlusion. Also we could merge those two column into one column.
-3.For the Shape information, I think the orientation and boundary could give the shape cue, in addition, with the lighting effect will give much help to the perception of shape.
+>1.In shading model, some people also involves the shading model parameters with four components, such as Lambertian shading, Specular shading, Ambient shading, Cast shadows
+However,I find in Hatching what they use most are illumination, shadow, highlight.    
+>2.Spatial cue of depth, I think distance from view is most widely used combined with light intensity, or other effect. occlusion and shading will also give depth cue, so here I add occlusion. Also we could merge those two column into one column.    
+>3.For the Shape information, I think the orientation and boundary could give the shape cue, in addition, with the lighting effect will give much help to the perception of shape.    
 In fact, those visual cues have relationships with each other. It is hard to split them.    
 
 - - - - - -
