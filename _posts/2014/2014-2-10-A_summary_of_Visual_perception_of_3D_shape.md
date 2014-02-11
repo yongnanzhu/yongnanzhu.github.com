@@ -41,20 +41,20 @@ Because they focus on shape perception, so they mainly refer shape cues.
 His types of cues are a bit like the wikipedia's. As different cues generally operate according to different physical laws with different brain stream to process it. At the begin of the PPT, they point out the __shape estimate__, which is some mental representation(shape representation) of the physical geometry of the object in the scene.
 So what surface shape information or properties could be estimated or served for visual cues? and at the begin of the PPT, they refer some shape properties: orientation, geometry(curvature, position of points). also at the end og the PPT, they refer local surface properties, such as curvature, surface orientation or depth at different location.    
 They also present how human perception works, and  the problem or ambiguities of 3D perception with the __Gestalt perception principle__.    
-###Visual Cues
-####1.Shading Cue   
+###Visual Cues    
+####1.Shading Cue    
 * Importance of viewpoint(how we see the object)    
 * How the light is set, where the light is from.
 * Variation in geometry and illumination conditions. 
 * Isophotes
-* Diffuse, Mirror(reflectance as illumination) surface with gradient direction to encode the information    
-####2.Linear Perspective(a bit like Depth) Cue
-Convergence of parallel line, use distance to encode depth information     
+* Diffuse, Mirror(reflectance as illumination) surface with gradient direction to encode the information      
+####2.Linear Perspective(a bit like Depth) Cue    
+Convergence of parallel line, use distance to encode depth information        
 ####3.Bounding Contours    
 * Contours are a few line to capture the shape information.    
 * Silhouette, suggestive contours(I add)
 * Ridges and valleys (I add)    
-* Apparent Ridges for creating contours for line drawings.(view-dependent curvature for line placement)    
+* Apparent Ridges for creating contours for line drawings.(view-dependent curvature for line placement)      
 ####4.Motion cues      
 >For non‐interactive conditions, in the absence of additional cues such as perspective or occlusion, there is a sign ambiguity associated with structure from motion.
 ####5.Texture (surface pattern) Cue       
@@ -64,8 +64,8 @@ Texture encodes information:
 * Surface orientations (principle curvature, dominant gradient direction, dominant local orientation, align with feature lines)      
 * Curvature (intrinsic curvature of the surface, Eigenvalues of the Hessian matrix)     
 
-Texture with different orientation of the stripes.
+Texture with different orientation of the stripes.    
 
-###Visual Cues for hatching    
+###Visual Cues for hatching     
 Compared with my table, I think his is much specialty. With right thing at right place, and the classification of visual cues based on the wikipedia. Maybe My classification should be modified. However, my classification is little well for providing some important imfortation first. 
 __Should I chagee the table?__
