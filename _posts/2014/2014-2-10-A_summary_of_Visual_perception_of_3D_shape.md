@@ -45,9 +45,10 @@ They also present how human perception works, and  the problem or ambiguities of
 ####1.Shading Cue    
 * Importance of viewpoint(how we see the object)    
 * How the light is set, where the light is from.
-* Variation in geometry and illumination conditions. 
+* Variation in geometry and illumination conditions.
 * Isophotes
-* Diffuse, Mirror(reflectance as illumination) surface with gradient direction to encode the information      
+* Diffuse, Mirror(reflectance as illumination) surface with gradient direction to encode the information    
+
 ####2.Linear Perspective(a bit like Depth) Cue    
 Convergence of parallel line, use distance to encode depth information        
 ####3.Bounding Contours    
@@ -55,9 +56,11 @@ Convergence of parallel line, use distance to encode depth information
 * Silhouette, suggestive contours(I add)
 * Ridges and valleys (I add)    
 * Apparent Ridges for creating contours for line drawings.(view-dependent curvature for line placement)      
+
 ####4.Motion cues      
 >For non‐interactive conditions, in the absence of additional cues such as perspective or occlusion, there is a sign ambiguity associated with structure from motion.
-####5.Texture (surface pattern) Cue       
+####5.Texture (surface pattern) Cue   
+
 Texture encodes information:      
    
 * Compression of the texture: isotropic with different projection      
