@@ -34,7 +34,7 @@ Visual perception of 3D shape](http://dl.acm.org/citation.cfm?id=1667263). It is
 
 They focus on how the brain estimates and represents 3D shape? They also take the human vision and Psychologists ideal into account.
 I think his Perception pipeline seems very good.    
-![PerceptionPipeline](../../picture/2014/2/PerceptionPipline.jpg)    
+![PerceptionPipeline](http://zhuyongnan.cn/picture/2014/2/PerceptionPipline.jpg)    
 It answers the perception process, from normal image to perceive the 3D shape, with the help of visual cues and priors.    
 Because they focus on shape perception, so they mainly refer shape cues.
 >The general ideal of extracting shape information from a given shape cue is sometimes referred to as getting “Shape from X”, where X could be shading, or texture, or binocular disparities or whatever.    
