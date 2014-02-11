@@ -1,3 +1,12 @@
+---
+layout: post
+title: A summary of Visual perception of 3D shape 
+categories:
+- Summary
+tags:
+- space perception， visual cue
+---
+
 It takes me a long time to think about what is visual cue? how this works in shape perception?    
 ##Wikipedia
 Actually, from wikipedia [Visual Cues](https://en.wikipedia.org/wiki/Sensory_cue#Visual_Cues), I find its Conception:    
@@ -25,7 +34,7 @@ Visual perception of 3D shape](http://dl.acm.org/citation.cfm?id=1667263). It is
 
 They focus on how the brain estimates and represents 3D shape? They also take the human vision and Psychologists ideal into account.
 I think his Perception pipeline seems very good.    
-![PerceptionPipeline](./picture/2014/2/PerceptionPipline.jpg)    
+![PerceptionPipeline](../../picture/2014/2/PerceptionPipline.jpg)    
 It answers the perception process, from normal image to perceive the 3D shape, with the help of visual cues and priors.    
 Because they focus on shape perception, so they mainly refer shape cues.
 >The general ideal of extracting shape information from a given shape cue is sometimes referred to as getting “Shape from X”, where X could be shading, or texture, or binocular disparities or whatever.    
