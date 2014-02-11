@@ -8,10 +8,12 @@ tags:
 ---
 
 It takes me a long time to think about what is visual cue? how this works in shape perception?    
+
 ##Wikipedia
 Actually, from wikipedia [Visual Cues](https://en.wikipedia.org/wiki/Sensory_cue#Visual_Cues), I find its Conception:    
 >Visual cues are sensory cues received by the eye in the form of light and processed by the visual system during visual perception. Since the visual system is dominant in many species, especially humans, visual cues are a large source of information in how the world is perceived.    
 Type of Cue: Depth, Motion, Biological Motion, Color, Contrast.
+
 ##What I think
 At first I am confused visual cues with visual channels. Actually, they are different. Visual channels are used for visual encoding which serve as helping to store information [3D object aspect]. However, visual cues is just providing some tips to help human to perceive the shape which serves as help to get information, just as the brain extract some information to improve shape perception [eye aspect].
 
@@ -41,7 +43,9 @@ Because they focus on shape perception, so they mainly refer shape cues.
 His types of cues are a bit like the wikipedia's. As different cues generally operate according to different physical laws with different brain stream to process it. At the begin of the PPT, they point out the __shape estimate__, which is some mental representation(shape representation) of the physical geometry of the object in the scene.
 So what surface shape information or properties could be estimated or served for visual cues? and at the begin of the PPT, they refer some shape properties: orientation, geometry(curvature, position of points). also at the end og the PPT, they refer local surface properties, such as curvature, surface orientation or depth at different location.    
 They also present how human perception works, and  the problem or ambiguities of 3D perception with the __Gestalt perception principle__.    
+
 ###Visual Cues    
+
 ####1.Shading Cue    
 * Importance of viewpoint(how we see the object)    
 * How the light is set, where the light is from.
