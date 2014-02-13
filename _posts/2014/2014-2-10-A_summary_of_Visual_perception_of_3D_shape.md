@@ -17,7 +17,7 @@ Type of Cue: Depth, Motion, Biological Motion, Color, Contrast.
 ##What I think
 At first I am confused visual cues with visual channels. Actually, they are different. Visual channels are used for visual encoding which serve as helping to store information [3D object aspect]. However, visual cues is just providing some tips to help human to perceive the shape which serves as help to get information, just as the brain extract some information to improve shape perception [eye aspect].
 
-When I form the table(Hatching with Visual Cue: Shape, Shading, Depth) a few days ago. Why I made those column is that I made a summary of the NPR papers with line drawing, most related to hatching.    
+When I form the table(Hatching with Visual Cue: Shape, Shading, Depth) a few days ago. Why I made those column like that is because I made a summary of the NPR papers with line drawing (hatching related most) and I think it's a little proper.    
 
 In NPR, I find the visual cues they most refer are shading, depth, texture, shape. Here the texture is just texture pattern. If using hatching, it just refers to the different line drawing for hatching.
 
@@ -35,7 +35,13 @@ Visual perception of 3D shape](http://dl.acm.org/citation.cfm?id=1667263). It is
 
 They focus on how the brain estimates and represents 3D shape? They also take the human vision and Psychologists ideal into account.
 I think his Perception pipeline seems very good.    
+<<<<<<< HEAD
 ![PerceptionPipeline](http://zhuyongnan.cn/picture/2014/2/PerceptionPipline.jpg)    
+=======
+
+![PerceptionPipeline](http://zhuyongnan.cn/picture/2014/2/PerceptionPipline.jpg)    
+
+>>>>>>> cc12d23498eb417f37de0e18edfeb29db0852218
 It answers the perception process, from normal image to perceive the 3D shape, with the help of visual cues and priors.    
 Because they focus on shape perception, so they mainly refer shape cues.
 >The general ideal of extracting shape information from a given shape cue is sometimes referred to as getting “Shape from X”, where X could be shading, or texture, or binocular disparities or whatever.    
