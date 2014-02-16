@@ -37,9 +37,6 @@ They focus on how the brain estimates and represents 3D shape? They also take th
 I think his Perception pipeline seems very good.    
 
 ![PerceptionPipeline](http://zhuyongnan.cn/picture/2014/2/PerceptionPipline.jpg)    
-=======
-
-![PerceptionPipeline](http://zhuyongnan.cn/picture/2014/2/PerceptionPipline.jpg)    
 
 It answers the perception process, from normal image to perceive the 3D shape, with the help of visual cues and priors.    
 Because they focus on shape perception, so they mainly refer shape cues.
