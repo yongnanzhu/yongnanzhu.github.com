@@ -193,6 +193,20 @@ dl .meta {
 
 }
 
+#listing-item.change-log {
+    width:90%;
+    margin-left: 30px;
+    margin-right: auto;
+}
+.loading{
+    text-align:center;
+}
+
+.loading img{
+    vertical-align:middle;
+    margin:5px;
+}
+
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;}
 
