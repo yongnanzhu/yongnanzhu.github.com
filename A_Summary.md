@@ -1,3 +1,12 @@
+---
+layout: post
+title: A summary  
+categories:
+- Summary
+tags:
+- space perception
+---
+
 ##Questions
 
 * How different hatching ways influence perception of DTI fibers?    
