@@ -1,0 +1,3 @@
+[submodule "vueAdmin"]
+	path = vueAdmin
+	url = https://github.com/younyzhu/vueAdmin.git
